@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Myriad pro, regular';
-    src: url(./font/Myriad\ Pro\ Regular.ttf);
+    src: url(../storage/img/font/Myriad\ Pro\ Regular.ttf);
 }
 *{
     margin: 0;
